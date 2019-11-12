@@ -1,0 +1,5 @@
+
+2019-11-12 10:58:55,616 INFO [root] [test_ihrm_employee.py(test_emp_add:20)] - 增加员工
+2019-11-12 10:58:55,654 INFO [root] [test_ihrm_employee.py(test_emp_update:36)] - 更改员工
+2019-11-12 10:58:55,678 INFO [root] [test_ihrm_employee.py(test_emp_get:44)] - 查询员工
+2019-11-12 10:58:55,699 INFO [root] [test_ihrm_employee.py(test_emp_delete:52)] - 删除员工
